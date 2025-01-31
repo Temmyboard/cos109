@@ -1,5 +1,4 @@
 # MY PORTFOLIO
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -16,7 +15,6 @@
                 <a href="#projects">Projects</a>
                 <a href="#contact">Contact</a>
             </div>
-        </div>
     </header>
 
     <section id="home" class="home-section">
