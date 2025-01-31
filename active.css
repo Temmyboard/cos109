@@ -7,7 +7,7 @@
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
-    Background: linear-gradient(to right, #35b1d6, #4401d5);
+    Background: linear-gradient(to right, #e7c443, #438bd3);
 }
 
 header {
@@ -72,7 +72,7 @@ footer {
 }
 
 button {
-    background-color: #00000080;
+    background-color: #3b6e3b;
     color: white;
     border: none;
     padding: 10px;
